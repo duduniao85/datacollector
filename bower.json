@@ -1,16 +1,16 @@
 {
-  "name": "conFusion",
+  "name": "datacollector",
   "version": "1.0.0",
-  "description": "Website for an awesome restaurant",
+  "description": "Website for an awesome data visualization",
   "main": "index.html",
   "moduleType": [],
   "keywords": [
-    "conFusion",
-    "Fusion",
-    "Restaurant"
+    "data visualization",
+    "d3",
+    "echarts"
   ],
   "authors": [
-    "Jogesh Muppala"
+    "xu  yuming"
   ],
   "license": "MIT",
   "homepage": "",
@@ -28,6 +28,7 @@
     "angular-route": "^1.6.4",
     "angular-resource": "^1.6.4",
     "angular-mocks": "^1.6.4",
-    "echarts": "^3.6.2"
+    "echarts": "^3.6.2",
+    "angular-ui-router": "^1.0.5"
   }
 }
